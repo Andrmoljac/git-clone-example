@@ -1,11 +1,10 @@
 --- a/hello_git.c
 +++ b/hello_git.c
-@@ -9,7 +9,7 @@            
-  int main() {
-
+@@ -8,7 +8,7 @@            
+  int main() {     
 	//Make changes to string constant parameter of printf function
-	printf("Hello push!\n");
--
-+	printf("Hello push again!\n");
+-       printf("Hello git!\n");
++	printf("Hello push!\n");
+
 	return 0;
  }
